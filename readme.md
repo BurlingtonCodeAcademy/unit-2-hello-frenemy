@@ -8,9 +8,9 @@ In this lab, we will be practicing with Boolean operators and conditional statem
 
 Topics:
 
-- Boolean operators ( `||` the logical OR).
-- `if...else` Conditional statements.
-- Functions; their parameters and arguments.
+- [Boolean operators ( `||` the logical OR).](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
+- [`if...else` Conditional statements.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+- [Functions; their parameters and arguments.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 ## Achieving
 
