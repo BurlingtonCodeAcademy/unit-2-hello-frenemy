@@ -4,7 +4,7 @@
 
 ## Learning
 
-In this lab, we will be practicing with Boolean operators and conditional statements. We will also play with function parameters and arguments. 
+In this lab, we will be practicing with Boolean operators and conditional statements. We will also play with function parameters and arguments.
 
 Topics:
 
@@ -25,8 +25,8 @@ Your work will result in:
 
 ## Creating the `greeter` function
 
-- [ ] Within `index.js`, there is a function named `respond` that accepts the parameter `name`.
-- [ ] Within `respond`'s code block, create an `if` statement whose conditional statement checks if `name`'s value is that of an enemy.
+- [ ] Within `index.js`, there is a function named `greeter` that accepts the parameter `name`.
+- [ ] Within `greeter`'s code block, create an `if` statement whose conditional statement checks if `name`'s value is that of an enemy.
 - [ ] Within this `if` statement's code block, add a console log telling your enemy to "Go away!"
 - [ ] At the end of the `if` block, add an `else` whose code block contains a console log. This console log should concatenate "Hello, " and `name` into a friendly greeting.
 
